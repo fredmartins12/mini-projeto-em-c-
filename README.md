@@ -8,19 +8,3 @@ Registro de Modalidades: Insira novas modalidades esportivas e associe atletas a
 Gerenciamento de Medalhas: Registre as medalhas conquistadas por atletas em diversas modalidades.
 Armazenamento de Países: Mantenha um cadastro de países participantes e associe atletas a seus respectivos países.
 Visualização de Dados: Ao final da execução, visualize todos os atletas, modalidades, medalhas e países registrados.
-📂 Estrutura do Projeto
-C:\programas_em_c\20230090098-20241-E002-FREDERICO_BOTELHO_MARTINS
-│
-├── include
-│   ├── atletas.h
-│   ├── medalhas.h
-│   └── modalidades.h
-│
-├── src
-│   ├── main.cpp
-│   ├── atletas.cpp
-│   ├── medalhas.cpp
-│   └── modalidades.cpp
-│
-├── Makefile
-└── README.md
