@@ -1,4 +1,4 @@
-# mini-projeto-em-c-
+# mini-projeto em c++
 Este projeto em C++ gerencia atletas, modalidades, medalhas e países, utilizando classes e smart pointers (`std::shared_ptr`) para eficiência de memória. Ele permite registrar e armazenar dados em vetores, com suporte a esportes coletivos e individuais, e inclui um `Makefile` para compilar o código automaticamente.
 Bem-vindo ao sistema de gerenciamento de atletas, modalidades, medalhas e países. Este projeto em C++ foi desenvolvido para armazenar e organizar informações relacionadas a eventos esportivos, utilizando conceitos modernos de programação como classes e std::shared_ptr para gerenciamento eficiente de memória.
 
